@@ -99,7 +99,9 @@ Over time, this builds not just knowledge of **solutions**, but a library of **r
 - This is an **unofficial companion** to the book *Putnam and Beyond*.  
   It is **not** affiliated with or endorsed by the authors or the publisher.
 - The repository contains **only my own handwritten solutions, commentary, and strategy notes**.
-- The **problem statements and original text** of *Putnam and Beyond* are **not reproduced here**.  
+- The **problem statements and exact original text** of *Putnam and Beyond* are **not reproduced here**. Some part of solutions are mostly inspired by the original mathematical flow and ideas, but they are developed in much greater detail and depth, with additional explanations and connections that make the underlying ideas clearer and more reusable. 
+
+
   They belong to the original authors and publisher.
 - To work with these notes, you should **own or legally access a copy of *Putnam and Beyond***.
 
